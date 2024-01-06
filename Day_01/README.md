@@ -1,0 +1,1 @@
+std::alpha - return the stream str with boolalpha format flag set 
