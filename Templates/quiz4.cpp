@@ -15,7 +15,7 @@ class Test
     }
 };
 
-template <class T>
+template <typename T>
 int Test<T>::count = 0;
 
 int main()
